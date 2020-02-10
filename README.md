@@ -1,3 +1,5 @@
+Click here to see the live presentation: https://hunterchristian.github.io/wicsprezo/index.html
+
 [![Maintenance Status][maintenance-image]](#maintenance-status)
 
 # Spectacle Boilerplate
